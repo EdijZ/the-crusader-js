@@ -1,0 +1,16 @@
+{
+  "name": "the-crusader-js",
+  "version": "1.0.0",
+  "description": "Bot that keeps Discord servers clean.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Edijs Zukulis",
+  "license": "ISC",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0"
+  }
+}
